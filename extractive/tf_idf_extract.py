@@ -1,3 +1,4 @@
+# Adapted from https://github.com/Himalayan-Glory/Nepali_Text_Summarization_Extractive
 #importing libraries
 import math, re, time
 from tqdm import tqdm

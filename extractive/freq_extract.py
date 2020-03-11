@@ -1,3 +1,5 @@
+# Adapated from https://github.com/anukulu/Nepali-Text-Summarizer-Using-Scraping
+
 from collections import Counter
 import re, nltk
 from tqdm import tqdm
