@@ -15,7 +15,7 @@ The summary generation task is not complete yet, so we do not report scores for 
 ## Usage
 Web scraping was done with the Scrapy Python package. The spiders are inside the `spiders` folder.
 
-A comprehensive guide to creating the dataset using these scripts will be provided soon. A link to the dataset will also be added soon.
+A comprehensive guide to creating the dataset using these scripts will be provided soon. The processed headlines dataset can be found [here](https://drive.google.com/open?id=1L56k0zonMk6XpelKAXPm45wCmt-9pS3x).
 
 ## Sample Summaries
 
