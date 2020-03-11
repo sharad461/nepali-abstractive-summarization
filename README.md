@@ -10,6 +10,8 @@ Currently the system is based on the Pointer-Generator Network discussed in _Get
 
 The ROUGE-1, ROUGE-2 and ROUGE-L scores for the headline generation task are 35.71, 18.53 and 32.89 respectively, far from 40+ ROUGE-1 and ROUGE-L for the same in the English language. The go-to headline generation dataset for English is the English Gigaword which has about 4 million article-title pairs.
 
+The summary generation task is not complete yet, so we do not report scores for it.
+
 ## Usage
 Web scraping was done with the Scrapy Python package. The spiders are inside the `spiders` folder.
 
@@ -24,4 +26,4 @@ A comprehensive guide to creating the dataset using these scripts will be provid
 | Reference  | काठमाडौंमा पनि भीषण हावाहुरी |
 | System  | काठमाडौंमा भीषण हावाहुरी , हावाहुरीसँगै वर्षा |
 
-For the fulfillment of requirements for Machine Learning (COMP 484) course at Kathmandu University. Mar 2020.
+For the completion of Machine Learning (COMP 484) course at Kathmandu University. Mar 2020.
