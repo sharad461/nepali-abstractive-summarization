@@ -26,6 +26,7 @@ A comprehensive guide to creating the dataset using these scripts will be provid
 | Reference  | काठमाडौंमा पनि भीषण हावाहुरी |
 | System  | काठमाडौंमा भीषण हावाहुरी , हावाहुरीसँगै वर्षा |
 
-Project members: Anjelika Sah, Pragya Bhandari, Subarna Subedi, Sharad Duwal.
+
+*Project members:* Anjelika Sah, Pragya Bhandari, Subarna Subedi, Sharad Duwal.
 
 For the completion of Machine Learning (COMP 484) course at Kathmandu University. Mar 2020.
