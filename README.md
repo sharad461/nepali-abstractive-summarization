@@ -18,6 +18,7 @@ A comprehensive guide to creating the dataset using these scripts will be provid
 ## Sample Summaries
 
 ### Headline generation
+| Type | Sentence |
 |---|---|
 | Article  | काठमाडौं उपत्यकासहित आसपासका क्षेत्रमा पनि शुक्रबार बिहानै भीषण हावाहुरी चलेको छ । हावाहुरीसँगै वर्षा पनि भएको छ । बिहान साढे # बजेबाट सुरु भीषण हावाहुरी र वर्षा एक घण्टाभन्दा बढी सयमयसम्म आएको थियो । |
 | Reference  | काठमाडौंमा पनि भीषण हावाहुरी |
